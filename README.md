@@ -3,6 +3,8 @@
 - 🌱 Atualmente cursando Ciência da Computação na UFRN
 - 📫 Contate-me no email: kaelparaguassu@hotmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelpsu&locale=pt-br&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,12 +24,10 @@
 
   ##
 
-<div> 
+<div style="display: inline_block"> 
 
-  <a href="https://instagram.com/kaelparaguassu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+  <a align href="https://instagram.com/kaelparaguassu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kael-paraguassu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
   <a href = "mailto:kaelparaguassu@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 </div>
