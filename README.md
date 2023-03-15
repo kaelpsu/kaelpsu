@@ -4,6 +4,7 @@
 - 📫 Contate-me no email: kaelparaguassu@hotmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelpsu&locale=pt-br&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="Kael-pic" height="210" style="border-radius: 50%;" src="https://github.com/kaelpsu/kaelpsu/blob/main/kael-wave.gif?raw=true">
 
 <div style="display: inline_block"><br>
 
